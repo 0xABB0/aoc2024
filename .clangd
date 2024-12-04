@@ -1,0 +1,6 @@
+CompileFlags:
+ Add: 
+  - "-std=c++23"
+  - "-ID:/repo/AOC_2024/common/"
+Diagnostics:
+  Suppress: unused-includes

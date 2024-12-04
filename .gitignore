@@ -1,0 +1,23 @@
+# Xmake cache
+.xmake/
+build/
+
+# Intellij
+.idea/
+
+# MacOS Cache
+.DS_Store
+
+*.lib
+
+*.a
+
+.vscode/
+
+*.pdb
+
+*.exp
+
+*.dll
+
+input.txt
